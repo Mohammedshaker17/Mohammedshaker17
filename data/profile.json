@@ -1,0 +1,15 @@
+{
+  "user": "mohammed",
+  "host": "github",
+  "rows": [
+    ["Name",     "Mohammed Shaker Al-Jaafri"],
+    ["Role",     "Full-Stack Software Developer"],
+    ["Study",    "MBO 4 Software Developer"],
+    ["School",   "ROC Midden Nederland (2024 - now)"],
+    ["Web",      "Laravel · React · Tailwind · PHP · MySQL"],
+    ["Apps",     "C# · WPF · .NET MAUI (MVVM) · Python"],
+    ["Design",   "Figma (UI/UX) · Unity · Blender"],
+    ["Certs",    "Python Essentials 1 & 2 ·"],
+    ["Langs",    "Arabic · Dutch · English"]
+  ]
+}
