@@ -1,8 +1,8 @@
 {
  "stats": {
-  "total": 201,
-  "current_streak": 46,
-  "longest_streak": 46,
+  "total": 202,
+  "current_streak": 47,
+  "longest_streak": 47,
   "best_day": {
    "date": "2026-06-23",
    "level": 4,
@@ -1842,6 +1842,11 @@
   },
   {
    "date": "2026-11-24",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-25",
    "level": 0,
    "count": 0
   }
